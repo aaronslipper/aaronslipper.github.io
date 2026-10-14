@@ -1,5 +1,5 @@
 AARON SLIPPER — PROFESSIONAL WEBSITE
-Prepared October 7, 2026; CV PDF updated October 10, 2026. This is a local draft; it has not been published.
+Website files and CV PDF updated October 14, 2026. Upload the contents of this folder to publish these changes.
 
 PREVIEW
 Open index.html in Safari, Chrome, or another web browser. Every page works
@@ -28,16 +28,16 @@ EDITING
 The five HTML files contain the page text. No build tool is required.
 assets/style.css controls the layout, type, and colors.
 Replace assets/aaron-slipper-cv.pdf whenever your CV changes, preserving the
-filename. The included PDF is the existing October 2026 CV.
+filename. The included PDF is the revised CV supplied on October 14, 2026.
 The homepage photograph is assets/aaron-slipper.jpg, copied unchanged from
 https://math.uchicago.edu/~aaronslipper/uploads/profile.jpg on October 10, 2026.
 Its original dimensions are 3024 by 4032 pixels. The stylesheet displays it
 at a smaller size, preserving its proportions.
 Update the footer date when making substantive changes. In particular,
-review the October 11, 2026 talk and Spring 2027 course status after they occur.
+review the Spring 2027 course status after it occurs.
 
 CONTENT NOTES
-The site uses the CV and publication metadata reviewed on October 7, 2026.
+The site has been checked against the revised CV supplied on October 14, 2026.
 Only the journal article is labeled published. The six other papers
 are preprints; two unfinished projects are explicitly in preparation.
 The Duke talk with an unconfirmed date/title is omitted from the web page.
