@@ -1,5 +1,5 @@
 AARON SLIPPER — PROFESSIONAL WEBSITE
-Website files and CV PDF updated October 14, 2026. Upload the contents of this folder to publish these changes.
+Website files and CV PDF updated October 29, 2026. Upload the contents of this folder to publish these changes.
 
 PREVIEW
 Open index.html in Safari, Chrome, or another web browser. Every page works
@@ -28,7 +28,9 @@ EDITING
 The five HTML files contain the page text. No build tool is required.
 assets/style.css controls the layout, type, and colors.
 Replace assets/aaron-slipper-cv.pdf whenever your CV changes, preserving the
-filename. The included PDF is the revised CV supplied on October 14, 2026.
+filename. The included PDF preserves the revised CV supplied on October 14, 2026,
+and adds the Purdue seminar talk of September 17, 2026 (date and title
+supplied by Aaron on October 29).
 The homepage photograph is assets/aaron-slipper.jpg, copied unchanged from
 https://math.uchicago.edu/~aaronslipper/uploads/profile.jpg on October 10, 2026.
 Its original dimensions are 3024 by 4032 pixels. The stylesheet displays it
